@@ -3,3 +3,42 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+html {
+  font-family: Roboto, sans-serif;
+}
+
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.nav-menu {
+  background-color: #1f2937;
+  padding: 15px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #f9faf8;
+}
