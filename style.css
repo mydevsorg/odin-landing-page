@@ -197,6 +197,16 @@ html {
   border-radius: 8px;
 }
 
+.footer {
+  background-color: #1f2937;
+  color: #e5e7eb;
+  padding: 30px;
+}
+
+.footer-text {
+  text-align: center;
+}
+
 ul {
   list-style: none;
 }
