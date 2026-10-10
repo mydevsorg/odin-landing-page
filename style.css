@@ -139,6 +139,31 @@ html {
   text-align: center;
 }
 
+.quotation {
+  background-color: #e5e7eb;
+  padding: 80px;
+}
+
+.quote-block {
+  width: 600px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.quote {
+  font-size: 26px;
+  color: #1f2937;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-by {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
+}
+
 ul {
   list-style: none;
 }
